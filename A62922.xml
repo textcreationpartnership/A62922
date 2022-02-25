@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new design of the papists detected, or, An answer to the last speches [sic] of the five Jesuites lately executed viz. Tho. White alias Whitebread, William Harcourt alias Harrison, John Gaven alias Gawen, Anthony Turner and John Fenwick / by Ezrael Tongue.</title>
+            <author>Tonge, Ezerel, 1621-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62922</idno>
+            <idno type="STC">Wing T1878</idno>
+            <idno type="STC">ESTC R28884</idno>
+            <idno type="EEBO-CITATION">10772316</idno>
+            <idno type="OCLC">ocm 10772316</idno>
+            <idno type="VID">45797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1412:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new design of the papists detected, or, An answer to the last speches [sic] of the five Jesuites lately executed viz. Tho. White alias Whitebread, William Harcourt alias Harrison, John Gaven alias Gawen, Anthony Turner and John Fenwick / by Ezrael Tongue.</title>
+                  <author>Tonge, Ezerel, 1621-1680.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Boulter, John Hancock, Ralph Smith, and Benj. Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45797:1" rendition="simple:additions"/>
+            <p>THE NEW DESIGN OF THE <hi>Papiſts Detected:</hi> OR, AN ANSVVER To The LAST SPECHES OF THE <hi>Five Ieſuites lately Executed,</hi> VIZ. Tho. White <hi>alias</hi> Whitebread, William Harcourt <hi>alias</hi> Hariſon, John Gavan <hi>alias</hi> Gawen, Anthony Turner <hi>and</hi> John Fenwick.</p>
+            <p>
+               <hi>By</hi> Ezrael Tongue, D.D.</p>
+            <p>LONDON, Printed for <hi>Robert Boulter, John Hancock, Ralph Smith,</hi> and <hi>Benj. Harris,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45797:2"/>
+            <pb n="1" facs="tcp:45797:2"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>TWO very different Opinions are continually paſt upon the late Executed Jeſuites, and their Traiterous Accomplices, ſome (upon juſt grounds as they are well ſatisfied they may) diſclaim againſt them, not only for the Horrid Treaſons, of which they were Convicted; and more eſpecially for their Damnable Impiety, invoking at their laſt hour the Dreadfull Judgement of Gods Eternal Wrath after that of mans Juſtice impendent upon their Heads and Souls, if they were not Innocent as a New born Child, from the Crimes fully proved againſt them, to the ſatisfaction of Judge, Jury, and a numerous Judicious Au<g ref="char:EOLhyphen"/>dience.</p>
+            <p>Others contrariwiſe either admit or ſuppoſe they may be Innocent, or require clearer proof, or doubt of their guilt; and that becauſe of thoſe Imprecations, which ſeem to others the higheſt aggravations of exalted Villany.</p>
+            <p n="1">1. Becauſe all deſperate Villans do not only generally but univerſal<g ref="char:EOLhyphen"/>ly practiſe the like Proteſtations of their Innocency at Death, and rarely Confeſs their Accomplices or betray them, which their Confeſſions might do.</p>
+            <p n="2">2. Theſe people, even in harſher terms practiſe and teach their Diſci<g ref="char:EOLhyphen"/>ples and Penitents, ſo at their Execution to deny all, and proteſt Innocency, endeavouring to increaſe an <hi>Odium</hi> on Proteſtant Magiſtrates and Govern<g ref="char:EOLhyphen"/>ment, and to make all Flagitious Perſons of their Church, for want of better, paſs for real Martyrs: As on the contrary, it turns to their very great advantage, becauſe nothing more advances a Cauſe or Doctrine than a Holy Life and a Patient Death of them who own it.</p>
+            <p>
+               <hi>As</hi> nothing more prejudices Religion, than many Criminals Executed in Publique, and their vitious Lives who profeſs it. This is therefore one of the moſt Helliſh <hi>Matchivillian</hi> Pollicies of <hi>Rome,</hi> To turn Argu<g ref="char:EOLhyphen"/>ments into Objections, and Objections into Arguments, or change by their Artifices Traytors into Martyrs, and Martyrs into Traytors or Hereticks.</p>
+            <p n="3">3. Their Confeſſions at this time, beſide the Scandal, which is a Crime ſo Heinous with them, that all groſſer Vices are tollerated whereby to avoid, would endanger their Chiefs in Cuſtody, hazzard the whole frame of their Deſign, diſcourage its Conductors and Followers, quail their Hopes and Faith, diſarm their Worthies, betray their Fame, expoſe to the hate of all Poſterity all their Orders and Religious gain, or utterly defeat the whole Plot, and looſe the Charges and Counſels beſtowed on it.</p>
+            <p n="4">4. We ought more to admire at the obſtinate adheſion of ſo many where they Lodged, Converſed, <hi>&amp;c.</hi> none coming to Impeach them, or for to ſee the Truth Teſtified againſt them, except <hi>Sarah Haine,</hi> Mr. <hi>Jeniſon, Bed<g ref="char:EOLhyphen"/>low, Dugdale,</hi> and <hi>Prance.</hi>
+            </p>
+            <pb n="2" facs="tcp:45797:3"/>
+            <p n="5">5. The Impudence of thoſe who teſtifie <hi>Warner</hi> and <hi>Oates</hi> beyond the Sea. <hi>Ireland</hi> in <hi>Warwickſhire, Wales,</hi> &amp;c. than which nothing is known to be more falſe.</p>
+            <p n="6">6. The vaſt hope of having the Wealth and Power of theſe three Kingdoms, to Protect, Serve and Promote them and their Deſigns.</p>
+            <p n="7">7. The never to be recovered Opportunity of an Heir Preſumptive of the Crown bigotted into their Superſtition, if now loſt or diſcouraged.</p>
+            <p>But let me now hear the Words of their flouriſhing Orator <hi>Gavan,</hi>— Thus he Brazens it out:</p>
+            <p>
+               <hi>As for Mr.</hi> Oates <hi>and Mr.</hi> Dugdale, <hi>who I call God to Witneſs, have brought me by falſe Oathes to this untimely End, I Heartily Forgive them.</hi>
+            </p>
+            <p>This paſſage if it had been inſerted before his Renunciation of Equi<g ref="char:EOLhyphen"/>vocation, Pardon, Abſolution, Diſpenſation, <hi>&amp;c.</hi> I confeſs I am not ſo well read in their Morals, as to know how by their own Rules to Di<g ref="char:EOLhyphen"/>geſt it; for as it is a Lye, it muſt neceſſarily require ſome Abſolution, or ſomwhat Equivalent, though it had been (as he believes it;) for the beſt Cauſe ever any Man in his Condition did Lye or Sin venially, and one nimble Croſs (if his hands were not tyed) might Salve it for ought I know. And perhaps ſome <hi>Pater-Noſters</hi> of his Dignified Auditors, as <hi>Bundel, Caryl, &amp;c.</hi> their Confeſſors, or ſome others, might ſecure this poor Soul from paſſing the Dreadfull Gulf of Purgatory. At worſt their Affection and Paſſion in Martyrdom for ſo excellent a Cauſe and Deſign: and Bap<g ref="char:EOLhyphen"/>tiſme in Blood did Salve all the by-paſt Infant Sins, Infirmities or Defects of theſe New-born Martyrs. If any of the Learned <hi>Romaniſts</hi> can help me more Candidly to Interpret this mans Words; I deſire his Aſſiſtance and Pardon for intruding into Myſteries ſcarce ever ſo practiſed, as by theſe Maſter-Polititians and Divines in this preſent Caſe.</p>
+            <p>I cannot but acknowledge this <hi>Gavans</hi> whole Diſcourſe very Artificially Compoſed; For what he affirms of his Innocency, and no Guilt of any Crime that needed not any Pardon, <hi>&amp;c.</hi> for the Fact was Meritorious; in his Words therefore there were no Equivocations ſo farr. <hi>And</hi> had he ſaid, <hi>Dugdale</hi>'s and <hi>Oate</hi>'s Oathes had been Malicious, he might have been more Candidly Interpreted, as one who Judged they had Gain, or other Worldly advantages to prompt them to what they Swore: but to ſay they were Falſe in ſuch particular matters of Fact as his own Conſcience Teſtifies with them to be true; For this, if his obſtinate Death, direct<g ref="char:EOLhyphen"/>ion of his intention for Catholique good, or ſome other Salvo, which occurrs not to me at preſent, amongſt their many Pious Frauds help him not: I ſee not but that he is highly Perjured, and his Soul loſt deſperately, only he may poſſibly with the <hi>Iriſh</hi>-Tory-Murderer Repent, Feel and find Mercy in the Rope: which that my Charity may not be Inferiour to his, I wiſh to the worſt of theſe Villains, though towards us, we ſhould long ere this, had not Heaven blaſted their Deſigns, have found their ten<g ref="char:EOLhyphen"/>der Mercies to have been moſt Barbarous Cruelties.</p>
+            <pb n="3" facs="tcp:45797:3"/>
+            <p>But that the True Senſe and Artifice of Mr. <hi>Gawen</hi>'s Speech may be rightly underſtood, we muſt obſerve the Method of it, and the Principles of the Author.</p>
+            <p>For the Method; He doth no where poſitively deny any matter of Right, or Fact, charged againſt him, or his Fellows; nor that the <hi>Pope</hi> hath Right unto, or hath reſumed the Kingdom of <hi>England;</hi> or that he hath Excommunicated or Depoſed the <hi>King;</hi> or delivered to the Secular Arm, the People of <hi>England,</hi> to be deſtroyed by the <hi>French,</hi> &amp;c. He doth only implicitly deny the Matters of Fact ſworn by <hi>Oats</hi> and <hi>Dugdale,</hi> when he calls their Oaths falſe.</p>
+            <p>But in this his Aſſertion, he promiſes not any Sincerity, nor re<g ref="char:EOLhyphen"/>nounces any Equivocations, nor Abſolutions, <hi>&amp;c.</hi> So that, he ſeems purpoſely, and very craftily to have waved that Proteſta<g ref="char:EOLhyphen"/>tion where it moſt needed, and to have uſurped it where he had no need to relieve himſelf by it: For certainly, he might very well ſay (as he believed) That he was not Criminal in what he did, in obedience, compliance, and concurrence with his Holineſs, and the General of their Order, their Vote, Senſe, or Sentence againſt our King and Kingdom. I believe, that all the <hi>Jeſuits</hi> that e<g ref="char:EOLhyphen"/>ver did, or ſhall ſuffer, may take their Pattern from his Speech, if it be not ſome Original and Directory Form; as their ſo Ri<g ref="char:EOLhyphen"/>gorous Adheſion to the Pretence of the Innocency of <hi>an unborn Child,</hi> ſmells very rankly of a Form preſcribed, from which they might not recede.</p>
+            <p>And the Truth is, if we conſider, 'tis of vaſt Importance to their Church, that every word they ſpeak at their Death, ſhould be made good and irrefragable to ſo many ſeveral ſorts of Men.</p>
+            <p>As 1. <hi>Papiſt-Bigots,</hi> who muſt be cheriſh'd in their blind Zeal to <hi>Holy-Church,</hi> and kept in opinion of their good Fathers San<g ref="char:EOLhyphen"/>ctity; ſince to them (perhaps) ſuch foul Crimes might be ſome<g ref="char:EOLhyphen"/>what ſcandalous, and open their Eyes to look about them, and conſider to what ſtrange Conduct they have truſted their Souls.</p>
+            <p n="2">2. <hi>Great Perſons,</hi> Favourers and Encouragers; as the Lords in the <hi>Tower,</hi> and others of Eminent Quality; who would certainly have been diſobliged, nay, further endangered by ſuch a Confeſſion.</p>
+            <p n="3">3. <hi>Moderate Papiſts,</hi> who, ſhould the <hi>Plot</hi> appear bare fac'd, would be apt to ſtart at ſo hideous and monſtrous a Sight; and conſequent<g ref="char:EOLhyphen"/>ly, abandon a Religion that allow'd ſuch deteſtable Impieties.</p>
+            <p n="4">4. The <hi>Janſeniſts,</hi> old Enemies to the <hi>Jeſuits;</hi> who would be glad of ſuch an Advantage, and never fail to upbraid them with it.</p>
+            <p n="5">5. <hi>Simple Proteſtants,</hi> on whom they have Deſignes; and to have Confeſt, had been for ever to have frightned them from <hi>Popery:</hi> but thus ſtifly to ſtand it out, may gain their weak opinion of the Sufferers Innocence; and that Opinion will conciliate Pity,
+<pb n="4" facs="tcp:45797:4"/>and that Pity, engage them ſome ſteps towards the Party.</p>
+            <p n="6">6. The <hi>Conſcious,</hi> who will hereby be confirm'd to proceed in Trayterous Attempts, when they ſee their Leaders go on ſo Cou<g ref="char:EOLhyphen"/>ragiouſly without boggling; and neither diſcovering them, nor acknowledging their own Crimes; but rather, juſtifying the At<g ref="char:EOLhyphen"/>tempts, as well-pleaſing to Heaven, when they durſt ſo ſolemn<g ref="char:EOLhyphen"/>ly make Appeals thereunto of Innocence.</p>
+            <p>On all theſe, and divers others moſt cogent Conſiderations, I ſee not that they could do otherwiſe; nor indeed, had been to be truſted by ſo wiſe a State, if they ſhould not have been content to have received, and obſerve ſo curious a Form of Compurga<g ref="char:EOLhyphen"/>tion, as might hereafter be defended againſt ſuch Heretical Sophiſters, as my ſelf will paſs for amongſt them.</p>
+            <p>If ſome Antient Orators were ſo exact, as to pen their Orati<g ref="char:EOLhyphen"/>ons with that Circumſpection, that ſome have dared to ſay, The Clubb might be forced from <hi>Hercules,</hi> ſooner than one Word from their Context; I can very eaſily allow the Church of <hi>Rome,</hi> which is ſo exact and formal in every thing, to have preſcribed ſome Directory to all her Martyrs, according to which they are to dye, as well as She hath preſcribed them Forms very rigorous, to live and pray by; So that, there is little of Ingenuity left in, or to be expected in the <hi>Roman</hi> World: And ſuppoſing the impoſed Forms univerſally practis'd, it would be equally as great an Im<g ref="char:EOLhyphen"/>poſſibility to know where true Piety were in their Petitions, as where Truth and Sincerity were in their Confeſſions. The <hi>opus ope<g ref="char:EOLhyphen"/>ratum,</hi> Lip-labour and Obedience, ſalving all to God as well as Man; and it would be as rare, as to no purpoſe, to pray or ſpeak what we or others underſtood or meant by our Ceremonies or Prayers; provided the Church but underſtood her ſelf, &amp; God underſtood her; whilſt never a Soul preſent, underſtood themſelves, or one another in what they prayed, what they did, or knew whither or which way they went.</p>
+            <p>Suppoſe then (as we have good cauſe) theſe Jeſuites had as good order and warrant for what they propoſe, of the deſign of Murdering the King, as they have had for that of Sir <hi>Edm. G.</hi> and other Murthers; who but men mad and diſtracted and not Inſtructed in their Principles, would expect that they ſhould confeſs them<g ref="char:EOLhyphen"/>ſelves Criminal? So we imagine that our Captains at <hi>Sea</hi> with their Letters of Mart ſhould confeſs themſelves Pyrates, or thoſe at Land, Murderers, when they obſerve their Princes Orders in in<g ref="char:EOLhyphen"/>teſtine or Forraigne Wars: If the Soveraign Power of Princes mutually acknowledged find ſuch Favor, that none are hanged but have quarter with reſpect to their Commiſſions, or thoſe whom they fight under, ſure we may allow the Supream
+<pb n="5" facs="tcp:45797:4"/>Majeſty of the Papacy acknowledged ſo far over <hi>Europe,</hi> to Juſtify (though not to us Hereticks, yet) to all the World and themſelves, thoſe Acts for which they have Order, Commiſſion, and Authority, Humane, and Divine, as good as his Title which he pretends to the Crown of <hi>England</hi> by both thoſe Rights; and for any Catholick to doubt of it, were a very great Hereſy, and would ſhake the very Fundamentals of the Roman Hierarchy, the plenarty of their Power and infallible Conduct in what con<g ref="char:EOLhyphen"/>cerns the Propagation of their Kingdom and Doctrine.</p>
+            <p>To Demonſtrate, that theſe Hypocritical Harrangues were di<g ref="char:EOLhyphen"/>rected, and preſcribed by a Certain method and Formulary, be pleaſed to Conſider how exactly they Tune all their Pipes to one Key. For Example: </p>
+            <p>
+               <hi>Whitebread</hi> ſayes,</p>
+            <p>I go out of the World as Innocent, and as free from any —</p>
+            <p>
+               <hi>Harcourt</hi> Innocent — of any —</p>
+            <p>
+               <hi>Fenwick</hi> Innocent</p>
+            <p>
+               <hi>Gavon</hi> Innocent</p>
+            <p>
+               <hi>Turner</hi>—To declare upon Oath my Innocence, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Whitebread.</hi> Guilt, of thoſe things laid to my Charge in this matter.</p>
+            <p>
+               <hi>Harcourt</hi> — thing laid to my Charge concerning the matter for which I Dye.</p>
+            <p>
+               <hi>Fenwick</hi> — of what is laid to my Charge of Plotting the Kings Death, Subverting the Government.</p>
+            <p>
+               <hi>Gavon,</hi> of thoſe Treaſonable Crimes which Mr. <hi>Oats</hi> and Mr. <hi>Dugdale</hi> ſwore againſt me.</p>
+            <p>
+               <hi>Turner,</hi> — of that Horrid Crime of Treaſon with which I am Falſly Accuſed.</p>
+            <p>
+               <hi>Whitebread,</hi> As I came into the World from my Mothers Womb.</p>
+            <p>
+               <hi>Harcourt,</hi> As the Child Unborn.</p>
+            <p>
+               <hi>Fenwick,</hi> As the Child yet unborn, and that I know nothing of it, but what I have learned from <hi>Dugdale</hi> and <hi>Oats,</hi> and what comes Originally from them.</p>
+            <p>
+               <hi>Gavon,</hi> As the Child unborn.</p>
+            <p>
+               <hi>Turner,</hi> As the Child that is Unborn.</p>
+            <p>
+               <hi>Whitebread,</hi> No body upon Earth can Authoriſe me ſo to do.</p>
+            <p>
+               <hi>Harcourt,</hi> Renounce, Abhor and Deteſt Licenſe to commit Perjuries, &amp;c.</p>
+            <p>
+               <hi>Fenwick,</hi> Utterly renounce Pardons, Diſpenſations for Lies, Perjury, Regicide</p>
+            <p>
+               <hi>Gavon,</hi> Makes no uſe of Equivocation, mental Reſervation, material Prolo<g ref="char:EOLhyphen"/>cution, nor Diſpenſation from the Pope, or any elſe; or of any Oath of Secrecy, nor Abſolution in Confeſſion, or out of Confeſ<g ref="char:EOLhyphen"/>ſion, to deny, hide, or Palliate the Truth, but in the plain ſenſe which the words bear.</p>
+            <p>
+               <hi>Whiteb.</hi> Thoſe who have moſt <hi>Falſly</hi> accuſed me.</p>
+            <p>
+               <hi>Gavon, Oats</hi> and <hi>Dugdale,</hi> who (I call God to Witneſs) by <hi>Falſe Oaths</hi> have brought me to this Untimely Death.</p>
+            <pb n="6" facs="tcp:45797:5"/>
+            <p>
+               <hi>Turner,</hi> Thoſe which have Falſly Accuſed me, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hand in my Death.</p>
+            <p>
+               <hi>Whiteb.</hi> Prayes God to Bleſs (but not Preſerve) his Maj<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emporally and Eternally.</p>
+            <p>
+               <hi>Harcou.</hi> I pray God bleſs his Majeſty, grant him a proſperous Raign, and his Conſort, the beſt of Queens.</p>
+            <p>
+               <hi>Gavon,</hi> Heartily deſire of God to grant him a quiet and happy (but not long) Raign.</p>
+            <p>
+               <hi>Turner,</hi> God bleſs the King, and all the Royal Family; and grant his Ma<g ref="char:EOLhyphen"/>jeſty a proſperous Raign, and a Crown of Glory hereafter.</p>
+            <p>
+               <hi>Whiteb.</hi> Never Learnt, Taught or Believed, or any occaſion or pretence, &amp;c.</p>
+            <p>
+               <hi>Gavon,</hi> Never in my life, did imagine or contrive the Depoſing or Death of the King.</p>
+            <p>
+               <hi>Whiteb.</hi> To deſign or contrive Death or Hurt to his Majeſties Perſon.</p>
+            <p>
+               <hi>Harcou.</hi> We hold it in all caſes unlawful to Kill or Murder any perſon, much more our Lawful King now Raigning, whoſe Perſon and Temporal Dominions, &amp;c.</p>
+            <p>
+               <hi>Gavon,</hi> Proteſts, nor he in particular, nor Jeſuits in general, hold King-Kil<g ref="char:EOLhyphen"/>ling-Doctrine, utterly abhor and deteſt it: i. e. that it is lawful for a private perſon to kill a King, Pagan, or Tyrant; but on the contrary, that all are bound to defend and preſerve him.</p>
+            <p>
+               <hi>Fenw.</hi> Are ready to defend againſt any Opponent.</p>
+            <p>
+               <hi>Whiteb.</hi> His Sacred Perſon to the uttermoſt of their power.</p>
+            <p>
+               <hi>Turner,</hi> Should have diſcovered ſuch a devilliſh Treaſon to the Civil Ma<g ref="char:EOLhyphen"/>giſtrate.</p>
+            <p>
+               <hi>Whiteb.</hi> This true plain ſenſe of his Soul without Equivocation, or mental Reſervation.</p>
+            <p>
+               <hi>Gavon,</hi> I do not make uſe of any Equivocation, mental Reſervation, and material Prolocution.</p>
+            <p>
+               <hi>Fenw.</hi> I do utterly renounce all Pardons and Diſpenſations, &amp;c.</p>
+            <p>Whereas in their <hi>Catholick</hi> Senſe, the Crimes they ſuffered for were no Treaſon, becauſe the <hi>King</hi> was Depoſed by the <hi>Pope;</hi> and conſequent<g ref="char:EOLhyphen"/>ly, ſo far from needing a Pardon, that they were matter of Merit.</p>
+            <p>I will ſay nothing of the Impudence (for ſo I muſt call it) of Mr. <hi>Ga<g ref="char:EOLhyphen"/>von,</hi> in denying that any <hi>Jeſuite,</hi> but <hi>Maricana,</hi> ever Advanced the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Killing Heretial Kings;</hi> whereas all that have been Converſant in the Books of that Society, know it to be moſt Falſe; and whoever ſhall peruſe that excellent Treatiſe of the Reverend Biſhop of <hi>Lincoln,</hi> lately emitted on that ſubject, ſhall ſatisfactorily find the contrary thereof proved; and that it is not only the Tenet of the Jeſuits, but the Doctrine of the Roman Church aſſerted both in Theory and Practice, by their Popes, Councels, eminent Doctors. Now if a man could, under ſuch Circumſtances, give himſelf the Liberty of an Aſſertion ſo notoriouſly Falſe in a matter that did not ſo nearly concern himſelf (but only the <hi>Order</hi> he was engaged in) what Untruths can we think he would ſtick at in the Grand Concern, wherein he had ſo many Obligations to ſway him unto it?</p>
+            <p>Let not therefore the Papiſts Tryumph on the Hectorly Exit of theſe their Traiterous Martyrs; for 'tis no more than we Expected: Nor let any weak Proteſtants be Scandalized, to find thoſe that made it their Practice to Vio<g ref="char:EOLhyphen"/>late all Laws Divine and Humane in their Lives, act quite Contrary to the ſentiments and deportment of all True Chriſtians at their Death.</p>
+            <p>
+               <hi>Idem manens Idem, ſempèr facit Idem.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
